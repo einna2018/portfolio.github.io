@@ -64,6 +64,9 @@ h3 {
 	padding: 10px 0px 3px 0px;
 	color: white;
 }
+.subtitle{
+	padding-top: 10%;
+}
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
   .bgimg-1, .bgimg-2, .bgimg-3 {
